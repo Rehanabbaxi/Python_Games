@@ -4,7 +4,7 @@ Welcome to my Python Games Repository! This repository is a collection of variou
 
 ## Table of Contents
 
-- [pong-Game] 
+-  [pong-Game](pong-Game)
   *A retro-style shooter game where you defend the Earth from alien invaders.*
 
 ## Repository Structure
