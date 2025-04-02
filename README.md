@@ -1,18 +1,12 @@
 # Python Games Collection
 
-Welcome to my Python Games Repository! This repository is a collection of various games developed in Python. Each game is organized into its own folder and includes a dedicated README with detailed instructions, gameplay information, and installation steps.
+Welcome to my Python Games Repository! This repository is a collection of 3 games developed in Python. Each game is organized into its own folder 
 
 ## Table of Contents
 
 -  [pong-Game](pong-Game)
-  *A retro-style shooter game where you defend the Earth from alien invaders.*
-
-## Repository Structure
-
-Each game is stored in its own subdirectory:
-- **Source Code:** All Python scripts and modules required to run the game.
-- **README.md:** Detailed instructions on how to install, run, and play the game.
-- **Assets:** Game assets such as images, sounds, and levels (if applicable).
+-  [Snake-Game](Snake-Game)
+-  [Turtle-Crossing-Game](Turtle-Crossing-Game)
 
 ## Getting Started
 
